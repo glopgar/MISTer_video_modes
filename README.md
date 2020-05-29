@@ -5,6 +5,9 @@ This is a list of vide_mode settings for several display resolution and frequenc
 The information has been parsed from http://www.tinyvga.com/vga-timing and
 converted to `mister.ini` file format for each resolution.
 
+The actual file is here:
+[VIDEO MODES LIST FILE](mister_video_modes.ini)
+
 ## Usage
 Just copy the `video_mode` line corresponding to your monitor specs and paste it
 in the corresponding section of your `mister.ini` file.
