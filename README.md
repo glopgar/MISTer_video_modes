@@ -1,7 +1,7 @@
 # MISTer custom video modes configuration list
 A list of custom MISTer video_modes 
 
-This is a list of vide_mode settings for several display resolution and frequencies.
+This is a list of `video_mode` settings for several display resolution and frequencies.
 The information has been parsed from http://www.tinyvga.com/vga-timing and
 converted to `mister.ini` file format for each resolution.
 
