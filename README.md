@@ -1,4 +1,4 @@
-# MISTer_video_modes
+# MISTer custom video modes configuration list
 A list of custom MISTer video_modes 
 
 This is a list of vide_mode settings for several display resolution and frequencies.
